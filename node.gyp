@@ -90,6 +90,7 @@
       'lib/internal/repl.js',
       'lib/internal/socket_list.js',
       'lib/internal/util.js',
+      'lib/internal/types.js',
       'lib/internal/v8_prof_polyfill.js',
       'lib/internal/v8_prof_processor.js',
       'lib/internal/streams/lazy_transform.js',
